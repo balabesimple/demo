@@ -27,3 +27,5 @@ en:
       other_than: "must be other than %{count}"
       odd: "must be odd"
       even: "must be even"
+      even_test: "must be even12"
+      even_tes3: "I am bala"
